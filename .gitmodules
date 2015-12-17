@@ -1,3 +1,7 @@
 [submodule "content/themes/athena"]
 	path = content/themes/athena
 	url = https://github.com/teteahtete/athena
+[submodule "content/themes/boreas"]
+	path = content/themes/boreas
+	url = https://github.com/teteahtete/boreas
+	branch = master
